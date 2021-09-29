@@ -1,0 +1,35 @@
+----------Point & Click-----------
+	
+----------Conversations-----------
+	- Variable Impacting
+		-Booleans
+		
+-----------Characters-------------
+
+------------Locations-------------
+
+-------ADDITIONAL MECHANICS-------
+
+--------------IDEAS---------------
+	-Johnny and His Apples
+		-House and Market
+		-Johnny, Grandma, Merchant, Shady Guy
+		-Swindle???
+			-Shady Guy will appear after speaking to Merchant to buy apples
+				-Not good for his word.
+	-Space Exploration
+		-Communicate with planets(characters) 
+		-Purpose
+			-Resource collection _ Earth resources running out
+		-Command, Outer World Merch, Captain
+		      <--->
+		-Choose Planet
+
+-------------TASKS--------------
+-ArtWork__Pixel
+	Mainly Chris
+	Small thing can be done and edited by Andrew
+-Coding _ Basis
+	-Simple, Start Small
+	-Main System - Andrew 
+
