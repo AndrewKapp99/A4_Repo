@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637686752349749363
     m_Hash: 311509637
+=======
+      ticks: 637689588591627170
+    m_Hash: 780218489
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: C:/Users/kappa/Documents/GitHub/A4_Repo/A4_SpaceResources/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637686752349809196
     m_Hash: 344547476
+=======
+      ticks: 637689588591637133
+    m_Hash: 1403369697
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -1245,7 +1255,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.6
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\kappa\Documents\GitHub\A4_Repo\A4_SpaceResources\Library\PackageCache\com.unity.timeline@1.4.6
+=======
+      resolvedPath: C:\Users\kappa\Documents\GitHub\A4_Repo\A4_SpaceResources\Library\PackageCache\com.unity.timeline@1.4.7
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
