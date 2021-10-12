@@ -39,3 +39,29 @@ MonoBehaviour:
     masterInkAsset: {fileID: 0}
     includePaths: []
     includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 1ef1c1eb8bf536f4b93024adaf413300, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 4d06ba598831211429e1b85e6f181532, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 8dd8743039d003c41a884604a150a5c2, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: a4cade42d78e7464392bf7cba97f85df, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []

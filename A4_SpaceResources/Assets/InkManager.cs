@@ -91,5 +91,9 @@ public class InkManager : MonoBehaviour
         }
     }
 
+    public void OnClick()
+    {
+        DisplayNextLine();
+    }
 
 }
